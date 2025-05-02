@@ -99,3 +99,8 @@ export const action = async ({ request }: ActionFunctionArgs) => {
         console.error('Error generating travel plan: ', e);
     }
 }
+
+
+
+
+
