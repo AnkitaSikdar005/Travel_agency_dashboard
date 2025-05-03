@@ -1,6 +1,6 @@
 # 🌍 Tourvisto!- Travel Agency Platform 🚀
 
-A modern, scalable Travel Agency Platform that empowers users to generate AI-powered trip itineraries and book trips with ease. Designed with a **clean**, **responsive UI** and built using cutting-edge technologies like **React 19**, **Appwrite**, and **React Router v7** (framework mode). The platform includes a robust **Admin Dashboard** for managing trips and users, along with insightful analytics and growth metrics.
+A modern, scalable Travel Agency Platform that empowers users to generate AI-powered trip itineraries and plan trips with ease. Designed with a **clean**, **responsive UI** and built using cutting-edge technologies like **React 19**, **Appwrite**, and **React Router v7** (framework mode). The platform includes a robust **Admin Dashboard** for managing trips and users, along with insightful analytics and growth metrics.
 
 ### 🧭 Deployed on Vercel – [Visit the Live Site](https://travel-agency-dashboard-rouge.vercel.app/)
 
