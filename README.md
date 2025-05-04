@@ -38,7 +38,7 @@ A modern, scalable Travel Agency Platform that empowers users to generate AI-pow
 
 ---
 
-## 📦 Framework Features
+## 📦 Framework Features(React Router v7)
 
 - ✅ **Server-side rendering (SSR)**
 - ⚡️ **Hot Module Replacement (HMR)**
